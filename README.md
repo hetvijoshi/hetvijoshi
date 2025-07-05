@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hetvi Joshi
 
 <div align="center">
-  <img src="./public/images/my-profile.jpg" width="150" style="border-radius: 50%" alt="Hetvi Joshi's Profile Picture" />
+  <img src="https://hetvijoshi.github.io/portfolio/images/my-profile.jpg" width="150" style="border-radius: 50%" alt="Hetvi Joshi's Profile Picture" />
 </div>
 
 ## 💫 About Me
