@@ -2,8 +2,6 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://hetvijoshi.github.io/portfolio/images/my-profile.jpg" alt="Hetvi Joshi - Software Engineer" width="180" height="180"/>
-
 I'm a **Master's student in Computer Science** at the University of Texas at Arlington, passionate about crafting robust and scalable software solutions. With **2.5+ years of industry experience**, I specialize in full-stack development, cloud computing, and AI/ML applications.
 
 - 🎓 **MS Computer Science** @ UT Arlington (GPA: 3.75/4.0)
